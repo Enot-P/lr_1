@@ -83,3 +83,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = LibrarySystem(root)
     root.mainloop()
+
+print("Well Done!")
